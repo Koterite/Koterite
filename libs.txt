@@ -18,3 +18,5 @@ https://github.com/Kotlin/dokka
 https://github.com/Kotlin/kotlinx-benchmark
 
 http://www.gaia-gis.it/gaia-sins/mingw64_how_to.html#env
+
+https://jonnyzzz.com/blog/2018/10/29/kn-libcurl-windows/
