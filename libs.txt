@@ -1,0 +1,20 @@
+https://github.com/AAkira/Kotlin-Multiplatform-Libraries
+
+https://github.com/korlibs/krypto
+https://github.com/willowtreeapps/fuzzywuzzy-kotlin
+https://github.com/ionspin/kotlin-multiplatform-bignum
+https://github.com/korlibs/klock
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/Kotlin/kotlinx.serialization
+https://github.com/ktorio/ktor
+https://github.com/benasher44/uuid
+https://github.com/Autodesk/coroutineworker (NO LINUX!)
+https://github.com/touchlab/Stately
+https://github.com/korlibs/klogger
+https://github.com/Foso/MpApt
+https://github.com/ajalt/clikt
+https://github.com/Kotlin/kotlinx.cli
+https://github.com/Kotlin/dokka
+https://github.com/Kotlin/kotlinx-benchmark
+
+http://www.gaia-gis.it/gaia-sins/mingw64_how_to.html#env

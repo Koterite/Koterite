@@ -1,0 +1,15 @@
+[submodule "koterite-nbt"]
+	path = koterite-nbt
+	url = https://github.com/Koterite/Koterite-NBT.git
+[submodule "koterite-annotations"]
+	path = koterite-annotations
+	url = https://github.com/Koterite/Koterite-Annotations.git
+[submodule "koterite-filesystem"]
+	path = koterite-filesystem
+	url = https://github.com/Koterite/Koterite-Filesystem.git
+[submodule "koterite-nbt-io"]
+	path = koterite-nbt-io
+	url = https://github.com/Koterite/Koterite-NBT-IO.git
+[submodule "koterite-server"]
+	path = koterite-server
+	url = https://github.com/Koterite/Koterite-Server.git
