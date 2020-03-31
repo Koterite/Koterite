@@ -20,3 +20,8 @@ https://github.com/Kotlin/kotlinx-benchmark
 http://www.gaia-gis.it/gaia-sins/mingw64_how_to.html#env
 
 https://jonnyzzz.com/blog/2018/10/29/kn-libcurl-windows/
+
+https://devdocs.io/c/
+https://docs.microsoft.com/pt-br/cpp/c-runtime-library/reference/access-waccess?view=vs-2019
+
+https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/file_IO.html
